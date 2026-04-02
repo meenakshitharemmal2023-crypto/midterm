@@ -3,10 +3,10 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/mavenv4_0_0.xsd">
 <modelVersion>4.0.0</modelVersion>
 <groupId>com.example</groupId>
-<artifactId>student-grade-calculator</artifactId>
+<artifactId>scholarship</artifactId>
 <packaging>jar</packaging>
 <version>1.0-SNAPSHOT</version>
-<name>student-grade-calculator</name>
+<name>scholarship</name>
 <dependencies>
 <dependency>
 <groupId>junit</groupId>
